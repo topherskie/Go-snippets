@@ -1,2 +1,2 @@
 # Go-snippets
-Go programming information, resusable codes
+Go programming information, reusable codes.
